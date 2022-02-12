@@ -19,3 +19,6 @@ def printrand(min, max):
 
 def startfile(filename):
     os.startfile(filename)
+
+def close():
+    exit()
